@@ -14,8 +14,8 @@
           "architecture": "QCA4020",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://www.dropbox.com/s/1esjk0bpohcv34t/ArduinoCore-Template.zip?dl=1",
-          "archiveFileName": "ArduinoCore-QCA4020.zip",
+          "url": "https://github.com/slavaten/ArduinoCore_QCA4020/raw/refs/heads/main/ArduinoCore_QCA4020.zip",
+          "archiveFileName": "ArduinoCore_QCA4020.zip",
           "checksum": "SHA-256:86070154671566f58014a29d13a80bc330491b237e7c79eb8e46e45dcd70b4b2",
           "size": "16200652",
           "boards": [
