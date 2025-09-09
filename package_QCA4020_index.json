@@ -1,16 +1,19 @@
 {
   "packages": [
     {
-      "maintainer": "5G-NB-IoT",
-      "websiteURL": "null",
-      "email": "null",
-      "name": "5G-NB-IoT",
+      "name": "QCA4020",
+      "maintainer": "5G_hub",
+      "websiteURL": "https://5ghub.us",
+      "email": "your@5ghub.us",
+      "help": {
+        "online": "https://5ghub.us//docs"
+      },
       "platforms": [
-				{
-					"name": "5G-NB-IoT SAMD Board (32-bits ARM Cortex-M0+)",
-					"architecture": "samd",
-					"version": "1.0.7",
-					"category": "Contributed",
+        {
+          "name": "QCA4020",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
 					"help": {
 						"online": "null"
 					},
